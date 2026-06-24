@@ -1,0 +1,9 @@
+{
+    "findings": [
+        "cloud-scanner-user does not have MFA enabled",
+        "cloud-scanner-user has multiple access keys",
+        "Narendra does not have MFA enabled"
+    ],
+    "risk_score": 50,
+    "severity": "HIGH"
+}

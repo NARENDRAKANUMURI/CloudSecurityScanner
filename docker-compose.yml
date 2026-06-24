@@ -1,0 +1,7 @@
+services:
+  cloud-security-scanner:
+    build: .
+    container_name: cloud-security-scanner
+    ports:
+      - "8501:8501"
+    restart: always

@@ -1,0 +1,11 @@
+{
+    "risk_score": 70,
+    "severity": "HIGH",
+    "findings": [
+        "cf-templates-1vga49haxtlm3-us-east-1 versioning disabled",
+        "demo-cloudfront-narendra-v6 versioning disabled",
+        "elasticbeanstalk-ap-southeast-2-327327821172 versioning disabled",
+        "narendra-demo-s3-v6 is PUBLIC",
+        "s3-storage-classes-demoses-2025 versioning disabled"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "findings": [
+        "i-0f72efed4ccbfa818 has public IP exposure",
+        "launch-wizard-1 exposes SSH"
+    ],
+    "risk_score": 50,
+    "severity": "HIGH"
+}
